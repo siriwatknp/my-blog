@@ -12,7 +12,13 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/blog/cyber-truck" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/blog/cyber-truck" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -37,6 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574853478886</updated>
       <workItem from="1574853481725" duration="4000" />
+      <workItem from="1574853502638" duration="315000" />
     </task>
     <servers />
   </component>
