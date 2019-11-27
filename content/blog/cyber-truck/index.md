@@ -6,7 +6,7 @@ description: "Wow"
 
 ![cyber truck](./tesla-cybertruck-official-image-1.jpg)
 
-# Tesla Cybertruck Takes off with 200,000 Orders
+# Tesla Cybertruck Takes off with 200,000 Orders....
 
 ### Or that’s what Elon Musk claims. Anyway, the divisive Tesla Cyrbertruck is one hell of a topic to discuss everywhere.
 The Tesla Cyrbertruck is probably the most-memed and most-talked-about vehicle of the decade. And we have a feeling that it’s going to be the talk of the town for a long, long time. Right from the demonstration event which saw the glass windows breaking, to its boxy styling which either belongs in a 1980s sci-fi flick or in a kindergarten kid’s coloring book, the Cybertruck is making news and going viral.
